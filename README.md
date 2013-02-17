@@ -2,7 +2,7 @@
 ## – A Page builing framework for Wordpress
 
 #### Description:
-iModul for Wordpress is a system for building advanced layouts yet easy enough to use for clients. It is based on an original concept from iModul CMS by [Web&Co.](www.webogco.dk).
+iModul for Wordpress is a system for building advanced layouts yet easy enough to use for clients. It is based on an original concept from iModul CMS by [Web&Co.](http://www.webogco.dk).
 It is built around Foundation markup and is meant to be used 
 It is set up to be fully costumizable so feel free to add your own stuff.
 
